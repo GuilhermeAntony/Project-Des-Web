@@ -1,0 +1,118 @@
+body {
+    background: #000 ;
+}
+.formataBlocos{
+    padding:20px 0px 20px 40px;
+}
+.bloco01{
+    background-color: #000;
+    color: #FFF;
+}
+.bloco01 h3{
+    font-size: 1em;
+    font-weight: 400;
+}
+.bloco02{
+    background-color: #7e2699;
+}
+.bloco03{
+    background-color: #2a4dad;
+}
+.bg-menu {
+    background-color: #FFF;
+}
+.navbar-light .navbar-brand{
+    color: #000;
+    font-weight: 600;
+}
+.navbar-light .navbar-brand:hover{
+    color: #989898;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #000;
+    font-size: 1.15em;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #989898;
+}
+.navbar-brand img{
+    margin-right: 10px;
+}
+.navbar-nav li{
+    padding: 0px 20px;
+}
+.navbar-brand{
+    margin-right: 60px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #7e7e7e;
+}
+.navbar-light .navbar-nav .nav-item:hover{
+   background-color: #000;
+}
+.carousel-item img{
+    width: 80%
+}
+.formata-slide {
+    color: #2a4dad;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #222;
+}
+.btn-currency-dollar:hover{
+    background-color: #50c041;
+}
+.carousel-control-prev .visually-hidden , .carousel-control-next .visually-hidden  { 
+    color: #000;
+}
+.navbar-brand img{
+    width: 20%;
+    font-weight: 20%;
+}
+.dropdown-menu{
+    background-color: #000;
+}
+.dropdown-menu .dropdown-item {
+    background-color: #000;
+    color: #FFF;
+}
+.dropdown-menu .dropdown-item img{
+    padding: 10px;
+    height: 80px;
+}
+.carousel-item .carousel-caption .btn i{
+    color: #000;
+}
+.carousel-item img{
+    height: 80%;
+}
+.mb-3{
+    padding: 1em;
+}
+.mb-3 .form-control{
+    border: #000 solid 1px;
+}
+.form-label{
+    color: #FFF;
+}
+.conteudo-destaque{
+    margin: 40px 0 40px 0;
+}
+.card{
+    margin: 10px;
+}
+.card-img-top{
+    width: 300px;
+    height: 300px;
+}
+.card-body{
+    text-align: center;
+}
+footer {
+    background-color: #989898;
+    margin: auto;
+    height: 110px;
+}
+footer p {
+    text-align: center;
+    padding-top: 10px;
+}
